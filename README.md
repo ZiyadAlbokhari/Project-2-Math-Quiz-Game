@@ -1,4 +1,4 @@
-# 🔢🧠 Math Game Challenge
+# 🔢🧠 Math Quiz Game
 
 Welcome to the **Math Game Challenge**! An interactive console application designed to test and improve your arithmetic skills. This project is built entirely in C++ to practice logical system design and data management.
 
