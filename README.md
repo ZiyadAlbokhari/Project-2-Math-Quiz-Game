@@ -22,7 +22,7 @@ Welcome to the **Math Game Challenge**! An interactive console application desig
 
 ## 🚀 How to Run
 1. Download the project files.
-2. Open the solution file in Visual Studio.
+2. Open `Math Game.sln` in Visual Studio.
 3. Run the code and try to get a full score! ✅
 
 ---
